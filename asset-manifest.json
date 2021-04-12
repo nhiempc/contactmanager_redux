@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/contactmanager_redux/static/css/main.133b9489.chunk.css",
+    "main.js": "/contactmanager_redux/static/js/main.a868838a.chunk.js",
+    "main.js.map": "/contactmanager_redux/static/js/main.a868838a.chunk.js.map",
+    "runtime-main.js": "/contactmanager_redux/static/js/runtime-main.585978ca.js",
+    "runtime-main.js.map": "/contactmanager_redux/static/js/runtime-main.585978ca.js.map",
+    "static/css/2.1b7b03f3.chunk.css": "/contactmanager_redux/static/css/2.1b7b03f3.chunk.css",
+    "static/js/2.c1eea033.chunk.js": "/contactmanager_redux/static/js/2.c1eea033.chunk.js",
+    "static/js/2.c1eea033.chunk.js.map": "/contactmanager_redux/static/js/2.c1eea033.chunk.js.map",
+    "static/js/3.2c4385cd.chunk.js": "/contactmanager_redux/static/js/3.2c4385cd.chunk.js",
+    "static/js/3.2c4385cd.chunk.js.map": "/contactmanager_redux/static/js/3.2c4385cd.chunk.js.map",
+    "index.html": "/contactmanager_redux/index.html",
+    "static/css/2.1b7b03f3.chunk.css.map": "/contactmanager_redux/static/css/2.1b7b03f3.chunk.css.map",
+    "static/css/main.133b9489.chunk.css.map": "/contactmanager_redux/static/css/main.133b9489.chunk.css.map",
+    "static/js/2.c1eea033.chunk.js.LICENSE.txt": "/contactmanager_redux/static/js/2.c1eea033.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.585978ca.js",
+    "static/css/2.1b7b03f3.chunk.css",
+    "static/js/2.c1eea033.chunk.js",
+    "static/css/main.133b9489.chunk.css",
+    "static/js/main.a868838a.chunk.js"
+  ]
+}
